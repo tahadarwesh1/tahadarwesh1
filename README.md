@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahadarwesh1&theme=default" alt="tahadarwesh1" /></a> </p>
 
-- 🔭 I’m currently working on **Motor Cars**
+- 🔭 I’m currently working on **Arhab**
 - 🌱 I’m currently learning **Design Patterns**
-- 💬 Ask me about **Flutter , Dart**
+- 💬 Ask me about **Flutter , Dart , Swift**
 - 📫 How to reach me **tahadarwesh1@gmail.com**
 - 👨‍💻 All of my projects are available at **https://linktr.ee/tahadarwesh**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1wcgmvDibBeEY8r8XKN5-b-f5i7fE8o9L/view?usp=sharing**
