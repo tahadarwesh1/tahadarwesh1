@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/tahadarwesh1">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahadarwesh1&layout=compact&theme=radical&title_color=F85D7F&bg_color=1F222E" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahadarwesh1&layout=compact&theme=radical&&hide_border=true&title_color=FF004B&bg_color=141321" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahadarwesh1&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahadarwesh1&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahadarwesh1&theme=2077" height="180em" />
