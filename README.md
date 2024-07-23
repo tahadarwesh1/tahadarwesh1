@@ -27,8 +27,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tahadarwesh1&theme=onedark)
 
-<h3 align="left">Streak</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tahadarwesh1&theme=" alt="tahadarwesh1" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tahadarwesh1&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
