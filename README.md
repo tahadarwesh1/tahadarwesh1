@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="tahadarwesh1" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahadarwesh1&label=Profile%20views&color=0e75b6&style=flat" alt="tahadarwesh1" /> </p>
 
-- 🔭 I’m currently working on **Arhab**
+- 🔭 I’m currently working on **Mosaedon**
 - 🌱 I’m currently learning **Design Patterns**
 - 💬 Ask me about **Flutter , Dart , Swift**
 - 📫 How to reach me **tahadarwesh1@gmail.com**
-- 👨‍💻 All of my projects are available at **https://linktr.ee/tahadarwesh**
+- 👨‍💻 Some of my projects are available at **https://linktr.ee/tahadarwesh**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1wcgmvDibBeEY8r8XKN5-b-f5i7fE8o9L/view?usp=sharing**
 
 <div> <a href="https://twitter.com/taha_darwesh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
