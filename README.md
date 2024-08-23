@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mosaedon**
 - 🌱 I’m currently learning **Design Patterns**
-- 💬 Ask me about **Flutter , Dart , Swift**
+- 💬 Ask me about **Flutter, Dart, Swift**
 - 📫 How to reach me **tahadarwesh1@gmail.com**
 - 👨‍💻 Some of my projects are available at **https://linktr.ee/tahadarwesh**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1wcgmvDibBeEY8r8XKN5-b-f5i7fE8o9L/view?usp=sharing**
