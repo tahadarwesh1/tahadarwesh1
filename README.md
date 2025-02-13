@@ -9,7 +9,6 @@
 - 💬 Ask me about **Flutter, Dart, Swift**
 - 📫 How to reach me **tahadarwesh1@gmail.com**
 - 👨‍💻 Some of my projects are available at **https://linktr.ee/tahadarwesh**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1wcgmvDibBeEY8r8XKN5-b-f5i7fE8o9L/view?usp=sharing**
 
 
 <div> <a href="https://twitter.com/taha_darwesh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
